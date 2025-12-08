@@ -1,0 +1,20 @@
+
+{
+	"name": "Slidev Dev Container",
+	"build": {
+		"dockerfile": "../Dockerfile",
+		"context": ".."
+	},
+	"workspaceFolder": "/workspace",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+	"forwardPorts": [3030],
+	"remoteUser": "slide",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"antfu.slidev"
+			]
+		}
+	}
+}
+
