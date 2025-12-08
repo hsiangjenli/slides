@@ -12,7 +12,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"antfu.slidev"
+				"antfu.slidev",
+				"vue.volar"
 			]
 		}
 	}
