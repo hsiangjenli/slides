@@ -3,7 +3,7 @@ name: Deploy pages
 on:
   workflow_dispatch:
   push:
-    branches: [fix-auto-build]
+    branches: [main]
 
 permissions:
   contents: read
