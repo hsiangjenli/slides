@@ -1,7 +1,7 @@
 ---
 theme: neversink
-colorSchema: auto
-color: red
+colorSchema: light
+color: gray
 title: Welcome to Slidev
 author: Your Name Here
 
@@ -22,6 +22,9 @@ duration: 35min
 The frontmatter of this slide is also the frontmatter
 
 ---
+colorSchema: light
+color: gray-light
+---
 
 # Slide 2
 
@@ -30,6 +33,9 @@ import pandas as pd
 ```
 
 
+---
+colorSchema: light
+color: gray-light
 ---
 
 # Slide 3
@@ -48,6 +54,9 @@ $$x=1+2$$
 3. 
 
 ---
+colorSchema: light
+color: gray-light
+---
 
 # Slide 4
 
@@ -60,6 +69,8 @@ $$x=1+2$$
 
 ---
 layout: two-cols
+colorSchema: light
+color: gray-light
 ---
 ::right::
 
