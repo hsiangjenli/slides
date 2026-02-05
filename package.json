@@ -1,4 +1,9 @@
 {
+	"scripts": {
+		"export-og": "slidev-workspace export-og",
+		"preview": "slidev-workspace preview",
+		"build": "slidev-workspace build"
+	},
 	"dependencies": {
 		"slidev-workspace": "^0.9.3"
 	}
