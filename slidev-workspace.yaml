@@ -1,5 +1,5 @@
-hero:
-  title: "My Slide Collection"
-  description: "Browse all available slide decks and use the search function to quickly find what you need"
+baseUrl: /slidev-workspace-starter
 
-baseUrl: "/slidev-workspace-starter"
+hero:
+  title: Slidev Workspace Starter
+  description: A starter for Slidev Workspace
