@@ -1,5 +1,9 @@
 {
 	"dependencies": {
 		"slidev-workspace": "^0.7.0"
+	},
+	"devDependencies": {
+		"@vue/compiler-sfc": "^3.5.27",
+		"typescript": "^5.9.3"
 	}
 }
