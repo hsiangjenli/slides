@@ -1,17 +1,15 @@
 ---
-theme: seriph
-colorSchema: light
-background: https://cover.sli.dev
+theme: neversink
+colorSchema: auto
+color: red
 title: Welcome to Slidev
 author: Your Name Here
-themeConfig:
-  github: 'https://github.com/hsiangjenli/mcp-slidev'
+
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-class: text-center
 drawings:
   persist: false
 transition: slide-left
@@ -69,7 +67,7 @@ layout: two-cols
 
 This shows on the right
 
-::default::
+::left::
 
 # Left
 
